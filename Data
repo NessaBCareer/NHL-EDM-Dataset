@@ -16,7 +16,7 @@ Salary int)
 
 
 Table 1 Insert:
-Insert into TeamDemographics VALUES
+Insert Into TeamDemographics VALUES
 (1001,	'Connor',	'McDavid', 25)
 (1002,	'Leon',	'Draisaitl', 26)
 (1003,	'Darnell',	'Nurse', 27)		
